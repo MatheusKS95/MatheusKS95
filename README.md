@@ -9,11 +9,11 @@ I'm a freelance programmer. I use GitHub (and Bitbucket as well) to host my own 
 #### I'm learning 🌱
 Currently I'm learning OpenGL and Vulkan in order to work on my games, as well as improving my C and GLSL knowledge.
 
-#### Portfolio and contact links
+#### Portfolio and contact links 🧲
 You can see my portfolio [here][portfolio]. There you can find my contact info.
 
-#### Things I know ✨
-[<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg" width="48px" alt="C" />][cpp]
+#### Things I know ⚒️
+[<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg" width="48px" alt="C" />][c]
 [<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="36px" alt="C++" />][cpp]
 [<img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" width="40px" alt="C#" />][csharp]
 [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" width="40px" alt="Lua" />][lua]
@@ -21,7 +21,8 @@ You can see my portfolio [here][portfolio]. There you can find my contact info.
 [<img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Simple_DirectMedia_Layer%2C_Logo.svg" width="72px" alt="SDL" />][sdl]
 
 <!-- links -->
-[cpp]: https://www.w3schools.com/c/index.php
+[c]: https://www.w3schools.com/c/index.php
+[cpp]: https://cplusplus.com/reference/
 [sqlite]: https://sqlite.org/index.html
 [cpp]: https://www.w3schools.com/cpp/default.asp
 [csharp]: https://docs.microsoft.com/en-us/dotnet/csharp/
