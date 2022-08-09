@@ -4,10 +4,10 @@ I'm Matheus K. Schaefer, a programmer from southern Brazil.
 <img align='right' src="https://matheusks95.github.io/images/sc2_block.png" alt="SpaceCrap2, a game made by me" />
 
 #### Things I'm working on 🔭
-I'm a freelance programmer. I use GitHub (and Bitbucket as well) to host my own projects. I'm currently working in a video-game of my own, without using game engines as much as possible. Most of my code is written in C, but I know C++ and C# as well.
+I'm a freelance programmer. I use GitHub (and Bitbucket) to host my own projects. I'm currently working in a videogame of my own, without using game engines as much as possible. Most of my code is written in C, but I know C++ and C# as well.
 
 #### I'm learning 🌱
-Currently I'm learning OpenGL and Vulkan in order to work on my games, as well as improving my C and GLSL knowledge.
+Currently I'm learning OpenGL and Vulkan in order to work on my games and to improving my C and GLSL knowledge. I'm also learning new libraries and using them to work with my tools.
 
 #### Portfolio and contact links 🧲
 You can see my portfolio [here][portfolio]. There you can find my contact info.
@@ -21,10 +21,9 @@ You can see my portfolio [here][portfolio]. There you can find my contact info.
 [<img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Simple_DirectMedia_Layer%2C_Logo.svg" width="72px" alt="SDL" />][sdl]
 
 <!-- links -->
-[c]: https://www.w3schools.com/c/index.php
+[c]: https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html
 [cpp]: https://cplusplus.com/reference/
 [sqlite]: https://sqlite.org/index.html
-[cpp]: https://www.w3schools.com/cpp/default.asp
 [csharp]: https://docs.microsoft.com/en-us/dotnet/csharp/
 [lua]: https://www.lua.org/
 [sdl]: https://www.libsdl.org/
