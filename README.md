@@ -4,7 +4,7 @@ I'm Matheus K. Schaefer, a programmer from southern Brazil.
 <img align='right' src="https://matheusks95.github.io/images/sc2_block.png" alt="SpaceCrap2, a game made by me" />
 
 #### Things I'm working on 🔭
-I'm a freelance programmer. I use GitHub (and Bitbucket) to host my own projects. I'm currently working in a videogame of my own, without using game engines as much as possible. Most of my code is written in C, but I know C++ and C# as well.
+I'm a freelance programmer. I use GitHub (and Bitbucket) to host my own projects. I'm currently working in a videogame of my own, without using game engines as much as possible. Most of my code is written in C, but I know other languages as well (languages I have done more than 1000 lines of code: C, C++, Java, C#, Lua, JavaScript | Languages I'm learning: D and Rust).
 
 #### I'm learning 🌱
 Currently I'm learning OpenGL and Vulkan in order to work on my games and to improving my C and GLSL knowledge. I'm also learning new libraries and using them to work with my tools.
