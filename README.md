@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Matheus K. Schaefer, a programmer from southern Brazil.
+I'm Matheus K. Schaefer, a programmer from Brazil.
 
 <img align='right' src="https://matheusks95.github.io/images/sc2_block.png" alt="SpaceCrap2, a game made by me" />
 
