@@ -13,7 +13,7 @@ Currently I'm learning OpenGL and Vulkan in order to work on my games and to imp
 You can see my portfolio [here][portfolio]. There you can find my contact info.
 
 #### Things I know ⚒️
-[<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg" width="48px" alt="C" />][c]
+[<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg" width="36px" alt="C" />][c]
 [<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="36px" alt="C++" />][cpp]
 [<img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" width="40px" alt="C#" />][csharp]
 [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" width="40px" alt="Lua" />][lua]
