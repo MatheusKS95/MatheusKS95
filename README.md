@@ -9,8 +9,8 @@ I'm a freelance programmer. I use GitHub (and Bitbucket) to host my own projects
 #### I'm learning 🌱
 Currently I'm learning OpenGL and Vulkan in order to work on my games and to improving my C and GLSL knowledge. I'm also learning new libraries and using them to work with my tools.
 
-#### Portfolio and contact links 🧲
-You can see my portfolio [here][portfolio]. There you can find my contact info.
+#### Portfolio 🧲
+You can see my portfolio [here][portfolio].
 
 #### Things I know ⚒️
 [<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg" width="36px" alt="C" />][c]
