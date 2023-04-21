@@ -1,6 +1,5 @@
 ### Hi there 👋
-I'm Matheus K. Schaefer, a programmer from Brazil.
-NOTE: all my publicly available repositories are my own personal projects. No work-related code is available here (mostly due to NDAs).
+I'm Matheus K. Schaefer, a programmer from Brazil. I'm interested in multimedia and tools programming, mostly in "lower level" programming languages such as C.
 
 <img align='right' src="https://matheusks95.github.io/images/sc2_block.png" alt="SpaceCrap2, a game made by me" />
 
@@ -12,6 +11,9 @@ Currently I'm learning OpenGL and Vulkan in order to work on my games and to imp
 
 #### Portfolio 🧲
 You can see my portfolio [here][portfolio].
+
+#### Note
+All my publicly available repositories are my own personal projects. No work-related code is available here (due to NDAs and trade secrets).
 
 #### Things I know ⚒️
 [<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg" width="36px" alt="C" />][c]
