@@ -30,4 +30,4 @@ All my publicly available repositories are my own personal projects. No work-rel
 [sdl]: https://www.libsdl.org/
 [portfolio]: https://matheusks95.github.io/
 
-![](https://komarev.com/ghpvc/?username=MatheusKS95&color=ffffff)
+![](https://komarev.com/ghpvc/?username=MatheusKS95&color=ce2029)
