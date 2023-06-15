@@ -30,6 +30,4 @@ All my publicly available repositories are my own personal projects. No work-rel
 [sdl]: https://www.libsdl.org/
 [portfolio]: https://matheusks95.github.io/
 
-[![MatheusKS95's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusKS95&show_icons=true&theme=tokyonight&hide=haml)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusKS95&layout=compact&theme=tokyonight&hide=haml)](https://github.com/anuraghazra/github-readme-stats)
+![](https://komarev.com/ghpvc/?username=MatheusKS95&color=ffffff)
