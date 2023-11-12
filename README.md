@@ -7,10 +7,10 @@ I'm Matheus K. Schaefer, a programmer from Brazil. I'm interested in multimedia 
 I'm a freelance programmer. I use GitHub (and Bitbucket) to host my own projects. I'm currently working in a videogame of my own, using Godot. I'm also working with helper libraries for video game development and a graphics library on top of Vulkan. Most of my code is written in C, but I know other languages as well (languages I have done more than 1000 lines of code: C, Java, C#, Lua, JavaScript).
 
 #### I'm learning 🌱
-Currently I'm learning OpenGL and Vulkan in order to work on my games and to improving my C and GLSL knowledge. I'm also learning new libraries and using them to work with my tools.
+Currently I'm learning OpenGL, Vulkan and WebGPU (native) in order to work on my games and to improving my C and shading knowledge. I'm also learning new libraries (and creating them) and using them to work with my tools.
 
 #### Portfolio 🧲
-You can see my portfolio [here][portfolio].
+You can see my portfolio [here][portfolio]. It's WIP however and needs improvements.
 
 #### Note
 All my publicly available repositories are my own personal projects. No work-related code is available here (due to NDAs and trade secrets).
