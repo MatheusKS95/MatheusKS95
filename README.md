@@ -1,6 +1,3 @@
-# NOTICE
-I'll be migrating most of my (private) repos from Github to somewhere else soon, so don't expect any activity here other than already public stuff after that. I don't think Github company is doing any good for open source development, since being owned by Microsoft, should surprise absolutely nobody. I don't want to have my code taken without my consent to train some proprietary AI stuff I'm not gaining anything from. Issues like that are making me reconsider the licenses for my WIP code.
-
 ### Hi there 👋
 I'm Matheus K. Schaefer, a programmer from Brazil. I'm interested in multimedia and tools programming, mostly in "lower level" programming languages such as C.
 
