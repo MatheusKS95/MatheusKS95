@@ -22,6 +22,9 @@ All my publicly available repositories are my own personal projects. No work-rel
 [<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" width="90px" alt="SQLite" />][sqlite]
 [<img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Simple_DirectMedia_Layer%2C_Logo.svg" width="72px" alt="SDL" />][sdl]
 
+#### Question
+If proprietary companies use my code, or open source code, to train their AIs without regard for the license of such code, may I use leaked proprietary code to train my AI? Does that fall under fair use as well?
+
 <!-- links -->
 [c]: https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html
 [sqlite]: https://sqlite.org/index.html
