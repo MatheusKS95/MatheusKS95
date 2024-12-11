@@ -22,15 +22,12 @@ All my publicly available repositories are my own personal projects. No work-rel
 
 #### Tech stuff I like to work with 📼
 [<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" width="90px" alt="SQLite" />][sqlite]
-
 [<img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Simple_DirectMedia_Layer%2C_Logo.svg" width="72px" alt="SDL" />][sdl]
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/OpenGL_logo.svg" width="90px" alt="OpenGL" />][opengl]
-
 [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Raylib_logo.png" width="50px" alt="raylib" />][raylib]
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/WebAssembly_Logo.svg" width="45px" alt="WebAssembly" />][webassembly]
-
 [<img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Emscripten_logo.svg" width="150px" alt="Emscripten" />][emscripten]
 
 <!-- links -->
