@@ -1,8 +1,6 @@
 ### Hi there 👋
 I'm Matheus K. Schaefer, a programmer from Brazil. I'm interested in multimedia and tools programming, mostly in "lower level" programming languages such as C.
 
-<img align='right' src="https://matheusks95.github.io/images/sc2_block.png" alt="SpaceCrap2, a game made by me" />
-
 #### Things I'm working on 🔭
 I'm a freelance programmer. I use Bitbucket and Github to host most of my own projects. I'm currently working in a videogame of my own. I'm also working with helper libraries for video game development, real-time rendering and utilities. Most of my code is written in C, but I know other languages as well (including, but not limited to: Java, C#, Lua, JavaScript).
 
