@@ -8,7 +8,7 @@ I'm a freelance programmer. I use Bitbucket and Github to host most of my own pr
 Currently I'm learning modern and next-gen graphics APIs in order to work on my games and to improving my C and shading knowledge. So, this includes SDL GPU API and WebGPU (on desktop), also planning to get my hands dirty with Vulkan, and I already use OpenGL 4+ on some of projects. I'm also learning new libraries (and creating them) and using them to work with my tools.
 
 #### Portfolio 🧲
-You can see my portfolio [here][portfolio]. It's WIP however and needs improvements.
+You can see my portfolio [here][portfolio]. It's in Portuguese and WIP.
 
 #### Note
 All my publicly available repositories are my own personal projects. No work-related code is available here (due to NDAs and trade secrets).
