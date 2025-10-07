@@ -5,7 +5,7 @@ I'm Matheus K. Schaefer, a programmer from Brazil. I'm interested in multimedia 
 I'm a freelance programmer. I use Bitbucket and Github to host most of my own projects. I'm currently working in a videogame of my own. I'm also working with helper libraries for video game development, real-time rendering and utilities. Most of my code is written in C, but I know other languages as well (including, but not limited to: Java, C#, Lua, JavaScript).
 
 #### I'm learning 🌱
-Currently I'm learning modern and next-gen graphics APIs in order to work on my games and to improving my C and shading knowledge. So, this includes SDL GPU API and WebGPU (on desktop), also planning to get my hands dirty with Vulkan, and I already use OpenGL 4+ on some of projects. I'm also learning new libraries (and creating them) and using them to work with my tools.
+Currently I'm learning modern and next-gen graphics APIs in order to work on my games and to improving my C and shading knowledge - currently using SDL GPU API for my newer projects. Also planning to get my hands dirty with Vulkan. I worked with OpenGL 4+ on past projects, currently porting some of them to raylib. I'm also learning new libraries (and creating them) and using them to work with my tools.
 
 #### Portfolio 🧲
 You can see my portfolio [here][portfolio]. It's in Portuguese and WIP.
@@ -29,7 +29,7 @@ All my publicly available repositories are my own personal projects. No work-rel
 [<img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Emscripten_logo.svg" width="150px" alt="Emscripten" />][emscripten]
 
 <!-- links -->
-[c]: https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html
+[c]: https://www.c-language.org/
 [sqlite]: https://sqlite.org/index.html
 [csharp]: https://docs.microsoft.com/en-us/dotnet/csharp/
 [lua]: https://www.lua.org/
