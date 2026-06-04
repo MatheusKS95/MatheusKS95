@@ -1,8 +1,8 @@
 ### Hi there 👋
-I'm Matheus K. Schaefer, a programmer from Brazil. I'm interested in multimedia and tools programming, mostly in "lower level" programming languages such as C.
+I'm Matheus K. Schaefer, a programmer from Brazil. In real life I do back-end stuff in C# and sometimes front-end too, however I moonlight with multimedia and tools programming, mostly in "lower level" programming languages such as C.
 
 #### Things I'm working on 🔭
-I'm a freelance programmer. I use Bitbucket and Github to host most of my own projects. I'm currently working in a videogame of my own. I'm also working with helper libraries for video game development, real-time rendering and utilities. Most of my code is written in C, but I know other languages as well (including, but not limited to: Java, C#, Lua, JavaScript).
+Outside work, I'm currently working in a videogame of my own. I'm also working with helper libraries for video game development, real-time rendering and utilities. Most of my code is written in C, but I know other languages as well (including, but not limited to: Java, C#, Lua, JavaScript).
 
 #### I'm learning 🌱
 Currently I'm learning modern and next-gen graphics APIs in order to work on my games and to improving my C and shading knowledge - currently using SDL GPU API for my newer projects. Also planning to get my hands dirty with Vulkan and WebGPU. I worked with OpenGL 4+ on past projects, most of them ported to SDL GPU API or raylib. I'm also learning new libraries (and creating them) and using them to work with my tools.
@@ -14,7 +14,7 @@ You can see my portfolio [here][portfolio]. It's in Portuguese and WIP.
 All my publicly available repositories are my own personal projects. No work-related code is available here (due to NDAs and trade secrets).
 
 #### Preferred programming languages ⚒️
-[<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg" width="36px" alt="C" />][c]
+[<img src="https://upload.wikimedia.org/wikipedia/commons/7/72/C1stEdition.svg" width="36px" alt="C" />][c]
 [<img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" width="40px" alt="C#" />][csharp]
 [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" width="40px" alt="Lua" />][lua]
 
