@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Matheus K. Schaefer, a programmer from Brazil. In real life I do back-end stuff in C# and sometimes front-end too, however I moonlight with multimedia and tools programming, mostly in "lower level" programming languages such as C.
+I'm Matheus K. Schaefer, a programmer from Brazil. In real life I do back-end stuff in C# and sometimes front-end too, however I moonlight with multimedia and tools programming, mostly in "lower level" programming languages such as C, and also doing homebrew development on historical video game consoles.
 
 #### Things I'm working on 🔭
 Outside work, I'm currently working in a videogame of my own. I'm also working with helper libraries for video game development, real-time rendering and utilities. Most of my code is written in C, but I know other languages as well (including, but not limited to: Java, C#, Lua, JavaScript).
