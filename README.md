@@ -11,7 +11,7 @@ Currently I'm learning modern and next-gen graphics APIs in order to work on my 
 You can see my portfolio [here][portfolio]. It's in Portuguese and WIP.
 
 #### Note
-All my publicly available repositories are my own personal projects. No work-related code is available here (due to NDAs and trade secrets).
+All my publicly available repositories are my own personal projects. No work-related code is available here - don't even try.
 
 #### Preferred programming languages ⚒️
 [<img src="https://upload.wikimedia.org/wikipedia/commons/7/72/C1stEdition.svg" width="36px" alt="C" />][c]
